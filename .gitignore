@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 target/
 target
 target/*
@@ -56,3 +57,11 @@ log
 
 log/*
 
+=======
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+>>>>>>> 60c0ea1ddd20ff5b1d75e72c0f4fc522919c8d5a
